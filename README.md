@@ -20,8 +20,8 @@ A bot designed to automate transactions and bridge assets on the t3rn network, m
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/FEdanish/t3rn-airdrop-bot.git
-   cd t3rn-airdrop-bot
+   git clone https://github.com/FEdanish/t3rn-bot.git
+   cd t3rn-bot
    ```
 
 2. **Install Dependencies**:
